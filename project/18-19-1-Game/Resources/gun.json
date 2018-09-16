@@ -1,0 +1,2 @@
+[{"id":1,"name":"Normal Gun","type":1,"icon":"Revolver.png","intro":"An old gun","level":2,"btype":"BLACK"},
+{"id":2,"name":"Short Gun","type":1,"icon":"Shotgun.png","intro":"A short gun","level":2,"btype":"BLUE"}]

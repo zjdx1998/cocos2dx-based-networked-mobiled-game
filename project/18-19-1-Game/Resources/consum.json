@@ -1,0 +1,2 @@
+[{"id":5,"name":"Burger","type":2,"icon":"Burger.png","intro":"Food","level":2,"amount":1,"ctype":1},
+{"id":6,"name":"Scroll","type":2,"icon":"Scroll.png","intro":"Speed boost","level":2,"amount":1,"ctype":2}]

@@ -1,0 +1,1 @@
+[{"id":1,"name":"Normal Gun","type":1,"icon":"Gun1.png","intro":"An old gun","level":2,"btype":"BLACK"},{"id":2,"name":"Black Armor","type":2,"icon":"armor1.png","intro":"A normal T-shirt","level":2,"defRate":10,"defCount":10,"hpUp":10,"spdUp":0,"atkRate":0,"atkCount:":0}]

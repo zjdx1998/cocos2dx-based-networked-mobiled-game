@@ -1,0 +1,2 @@
+[{"id":3,"name":"Old Armor","type":2,"icon":"OldArmor.png","intro":"An old armor","level":2,"defRate":10,"defCount":10,"hpUp":10,"spdUp":0,"atkRate":0,"atkCount":0},
+{"id":4,"name":"Energy boots","type":2,"icon":"EnergyBoots.png","intro":"Best boots","level":3,"defRate":0,"defCount":10,"hpUp":10,"spdUp":20,"atkRate":10,"atkCount":10}]
