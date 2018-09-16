@@ -40,7 +40,7 @@ https://github.com/zjdx1998/18-19-1-Game
 
 ## 游戏视频
 
-b站链接：
+b站链接：http://www.bilibili.com/video/av31886535?share_medium=android&share_source=copy_link&bbid=75162A82-2734-47BE-A8C7-7FE2599FA2DB8981infoc&ts=1537120540811
 
 ## 开发文档
 
