@@ -12,7 +12,7 @@
 
 也请多多支持我们的组员的项目：
 
-Hanyuu  机器学习方向 : https://github.com/Hanyuu-Furude
+Hanyuu  机器学习方向 : https://github.com/HanyuuFurude
 
 qe 网络方向 : https://github.com/excitedspider
 
